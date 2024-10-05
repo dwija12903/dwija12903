@@ -1,7 +1,7 @@
 # Hi there, I'm Dwija Panchal 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2986cc&random=false&width=435&lines=Full+Stack+Developer;%26+Machine+Learning+Enthusiast;Always+learning+new+things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2986cc&random=false&width=435&lines=Full+Stack+Developer;Machine+Learning+Enthusiast;Always+learning+new+things" alt="Typing SVG" />
 </div>
 
 ## 🛠️ Technologies & Tools
